@@ -11,3 +11,11 @@ Varför inte skapa en knapp av en DIV?
 Applikationer i världsklass  
 
 Skalbarhet, A11y, USA's a11y act kontra EU's tillgänglighetsdirektiv, lättare att läsa  
+
+Hur många svenskar har funktionsvariationer? Folkhälsomyndigheten... 
+
+  var, const och let  
+
+Inte function, utan namngivnga funktioner  
+  const foo, arrow function  
+
